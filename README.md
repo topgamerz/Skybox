@@ -1,2 +1,2 @@
 # Skybox
-Collection of skybox
+Collection of skybox and some game assets
